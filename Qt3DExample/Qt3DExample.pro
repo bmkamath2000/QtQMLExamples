@@ -46,3 +46,5 @@ DISTFILES += \
     12-elefante/Textures/elefantefull.png \
     12-elefante/elefante.mtl \
     12-elefante/elefante.obj
+
+QMAKE_RESOURCE_FLAGS += -threshold 0

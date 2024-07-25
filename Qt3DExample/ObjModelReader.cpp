@@ -106,7 +106,7 @@ void ObjModelReader::loadObj()
     int num1,offset=0;
     double x, y, z,vnx,vny,vnz;
     //char ch;
-    const char* fname = "E:\\Qt\\workspace\\Qt3DExample\\12-elefante\\elefante.obj";
+    const char* fname = "C:\\Users\\kamat\\OneDrive\\Documents\\GitHub\\Qt3DExamples\\12-elefante\\elefante.obj";
     std::string linestr;
     QString s1,s2,s3,s4;
     QStringList split1;
