@@ -1,6 +1,10 @@
 Creating a Qt App
+
 Install Qt Creator 9.0.1 from the site https://www.qt.io/download-dev
+
 Upon Launching here is how it looks like:
+![image](https://github.com/user-attachments/assets/bffd5351-4925-4f0b-a0b3-df946d450d40)
+
 Create a New Qt Quick Application named Calculator2 based on QMake. It could also be
 CMake based but for the present lets make a qmake based one. After creation of project right
 click on the name of it in project explorer and=>
