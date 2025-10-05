@@ -58,7 +58,6 @@ Entity {
         Transform {
             id: sphereTransform123
             property real userAngle: 0.5
-            //matrix: Qt.matrix4x4(1.0)
             scale3D: Qt.vector3d(4.0,4.0,4.0)
         }
         components: [geometry, material, sphereTransform123 ]
@@ -66,7 +65,6 @@ Entity {
     ModelData{
         id:md
     }
-
 
     function loadModelData()
     {
